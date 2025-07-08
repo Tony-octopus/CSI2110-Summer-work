@@ -1,0 +1,50 @@
+C:\Users\tonyy\2025Summer\CSI2110\Labs\lab6>java HashingTest
+File Size 4113 words
+Table Size: 1009
+Type: Linear Probing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 21380, Average Probe Depth: 21.530715005035248, Count for word "The": 151
+Type: Quadratic Probing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 12885, Average Probe Depth: 12.975830815709969, Count for word "The": 151
+Type: Double Hashing, Elements: 992, Load Factor: 0.983152, Total number of Probes: 14032, Average Probe Depth: 14.14516129032258, Count for word "The": 151
+Type: Quadratic Double Hashing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 12718, Average Probe Depth: 12.807653575025176, Count for word "The": 151
+Type: Chaining, Elements: 993, Load Factor: 0.984143, Total Collisions: 3471, Count for word "The": 151
+
+File Size 23998 words
+Table Size: 4283
+Type: Linear Probing, Elements: 4255, Load Factor: 0.993463, Total number of Probes: 226186, Average Probe Depth: 53.15769682726204, Count for word "The": 1614
+Type: Quadratic Probing, Elements: 4255, Load Factor: 0.993463, Total number of Probes: 75973, Average Probe Depth: 17.85499412455934, Count for word "The": 1614
+Type: Double Hashing, Elements: 4253, Load Factor: 0.992996, Total number of Probes: 91756, Average Probe Depth: 21.574418057841523, Count for word "The": 1614
+Type: Quadratic Double Hashing, Elements: 4253, Load Factor: 0.992996, Total number of Probes: 89658, Average Probe Depth: 21.081119209969433, Count for word "The": 1614
+Type: Chaining, Elements: 4255, Load Factor: 0.993463, Total Collisions: 21312, Count for word "The": 1614
+
+C:\Users\tonyy\2025Summer\CSI2110\Labs\lab6>java HashingTest
+File Size 4113 words
+Table Size: 1009
+Type: Linear Probing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 21380, Average Probe Depth: 21.530715005035248, Count for word "The": 151
+Type: Quadratic Probing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 12885, Average Probe Depth: 12.975830815709969, Count for word "The": 151
+Type: Double Hashing, Elements: 992, Load Factor: 0.983152, Total number of Probes: 14032, Average Probe Depth: 14.14516129032258, Count for word "The": 151
+Type: Quadratic Double Hashing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 12718, Average Probe Depth: 12.807653575025176, Count for word "The": 151
+Type: Chaining, Elements: 993, Load Factor: 0.984143, Total Collisions: 3471, Count for word "The": 151
+
+File Size 23998 words
+Table Size: 4283
+Type: Linear Probing, Elements: 4255, Load Factor: 0.993463, Total number of Probes: 226186, Average Probe Depth: 53.15769682726204, Count for word "The": 1614
+Type: Quadratic Probing, Elements: 4255, Load Factor: 0.993463, Total number of Probes: 75973, Average Probe Depth: 17.85499412455934, Count for word "The": 1614
+Type: Double Hashing, Elements: 4253, Load Factor: 0.992996, Total number of Probes: 91756, Average Probe Depth: 21.574418057841523, Count for word "The": 1614
+Type: Quadratic Double Hashing, Elements: 4253, Load Factor: 0.992996, Total number of Probes: 89658, Average Probe Depth: 21.081119209969433, Count for word "The": 1614
+Type: Chaining, Elements: 4255, Load Factor: 0.993463, Total Collisions: 21312, Count for word "The": 1614
+
+C:\Users\tonyy\2025Summer\CSI2110\Labs\lab6>java HashingTest
+File Size 4113 words
+Table Size: 1009
+Type: Linear Probing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 21380, Average Probe Depth: 21.530715005035248, Count for word "The": 151
+Type: Quadratic Probing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 12885, Average Probe Depth: 12.975830815709969, Count for word "The": 151
+Type: Double Hashing, Elements: 992, Load Factor: 0.983152, Total number of Probes: 14032, Average Probe Depth: 14.14516129032258, Count for word "The": 151
+Type: Quadratic Double Hashing, Elements: 993, Load Factor: 0.984143, Total number of Probes: 12718, Average Probe Depth: 12.807653575025176, Count for word "The": 151
+Type: Chaining, Elements: 993, Load Factor: 0.984143, Total Collisions: 3471, Count for word "The": 151
+
+File Size 23998 words
+Table Size: 4283
+Type: Linear Probing, Elements: 4255, Load Factor: 0.993463, Total number of Probes: 226186, Average Probe Depth: 53.15769682726204, Count for word "The": 1614
+Type: Quadratic Probing, Elements: 4255, Load Factor: 0.993463, Total number of Probes: 75973, Average Probe Depth: 17.85499412455934, Count for word "The": 1614
+Type: Double Hashing, Elements: 4253, Load Factor: 0.992996, Total number of Probes: 91756, Average Probe Depth: 21.574418057841523, Count for word "The": 1614
+Type: Quadratic Double Hashing, Elements: 4253, Load Factor: 0.992996, Total number of Probes: 89658, Average Probe Depth: 21.081119209969433, Count for word "The": 1614
+Type: Chaining, Elements: 4255, Load Factor: 0.993463, Total Collisions: 21312, Count for word "The": 1614

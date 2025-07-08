@@ -1,0 +1,31 @@
+abc //true
+(abc) //true
+{(x+y)-[2*z]} //true
+({[cos(x)+1]*7}/(5+z)+log_2(n)) //true
+
+(() //false
+10^100*log_10[n)/log_10(2) //false
+
+{[()}] //false
+
+(({[{}]})  //false
+
+(9090[{[{}]}123]+-=-=-=-)//true
+
+)(	//false
+
+][	//false
+}{	//false
+
+()()	//true
+
+)()(	//false
+
+)	//false
+
+())	//false
+
+[{()]}	//false
+
+
+(([]()))	//true

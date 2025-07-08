@@ -1,0 +1,32 @@
+
+C:\Users\tonyy\2025Summer\CSI2110\Labs\lab6>java ToyTest
+Table Size: 11
+Testing Linear Probing
+All Elements In: true
+Brown Value is 2: true
+jumps Value is 4: true
+Brown Value is 25: true
+
+Testing Quadratic Probing
+All Elements In: true
+Brown Value is 2: true
+jumps Value is 4: true
+Brown Value is 25: true
+
+Testing Double Hashing
+All Elements In: true
+Brown Value is 2: true
+jumps Value is 4: true
+Brown Value is 25: true
+
+Testing Quadratic Double Hashing
+All Elements In: true
+Brown Value is 2: true
+jumps Value is 4: true
+Brown Value is 25: true
+
+Testing Chaining
+All Elements In: true
+Brown Value is 2: true
+jumps Value is 4: true
+Brown Value is 25: true

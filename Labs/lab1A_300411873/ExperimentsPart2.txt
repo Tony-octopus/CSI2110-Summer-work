@@ -1,0 +1,153 @@
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+100000
+Time Elapsed: 3.1933251 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+500000
+Time Elapsed: 71.5480811 secs
+
+										// n = ~440000 for less than 1 minute (unique1)
+C:\Users\tonyy\2025Summer\CSI2110\Labs\lab1A>java AlgAnalysis
+Enter 0 to test Arrays.sort(), 1 for unique, any other number to exit
+1
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+420000
+Time Elapsed: 57.3062262 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+420000
+Time Elapsed: 49.8644038 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+420000
+Time Elapsed: 49.5320818 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+430000
+Time Elapsed: 54.0577983 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+430000
+Time Elapsed: 51.7572901 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+440000
+Time Elapsed: 55.7687222 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+440000
+Time Elapsed: 68.4536074 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+440000
+Time Elapsed: 54.475743 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+440000
+Time Elapsed: 54.2491617 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+440000
+Time Elapsed: 57.0138721 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+1
+Enter n value
+445000
+Time Elapsed: 56.23673 secs
+											//n = ~220000000 for less than 1 minute (unique 2)
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+1000000
+Time Elapsed: 0.257012 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+5000000
+Time Elapsed: 1.0490858 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+10000000
+Time Elapsed: 2.2880856 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+50000000
+Time Elapsed: 12.2934193 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+75000000
+Time Elapsed: 19.1441857 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+10000000
+Time Elapsed: 2.3247416 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+100000000
+Time Elapsed: 25.2893323 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+300000000
+Time Elapsed: 82.1369901 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+200000000
+Time Elapsed: 52.8765158 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+250000000
+Time Elapsed: 69.5912643 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+220000000
+Time Elapsed: 59.9964522 secs
+
+Enter 1 to test unique1, 2 for unique2, any other number to exit
+2
+Enter n value
+220000000
+Time Elapsed: 60.438173 secs
