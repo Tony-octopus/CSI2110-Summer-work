@@ -87,13 +87,7 @@ public class HeapSortInPlace<T extends Comparable<T>> {
 	  int curr = start;
     T temp;
     while ( (left(curr) <= end)){
-        System.out.println("uuuggghhhh");
 
-        //assume left is the largest
-        //(ensure right is in range (exists)) check against right child to see which should swap current with
-          //if right, swap current w right
-          //else if left, swap current w left
-        //if current node greater than both children, break
 
         int left = left(curr);
         int right = right(curr);
