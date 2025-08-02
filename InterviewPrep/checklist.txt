@@ -1,0 +1,10 @@
+Shit i did
+
+	- Installed msys2 and made path to gcc to compile c programs (write them in vs code or sublime)
+	- Installed vim package so i can use xxd for hexdumps in msys2 terminal
+
+
+
+Next
+	- Install strings from sysinternal for better binary code analysis
+Look at ghidara
